@@ -6,5 +6,7 @@
             "Theom\\Pet\\": "src/"
         }
     },
-    "require": {}
+    "require": {
+        "endroid/qr-code": "^4.4"
+    }
 }
