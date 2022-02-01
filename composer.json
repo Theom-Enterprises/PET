@@ -1,0 +1,10 @@
+{
+    "name": "theom/pet",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Theom\\Pet\\": "src/"
+        }
+    },
+    "require": {}
+}
